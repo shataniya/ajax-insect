@@ -1,0 +1,29 @@
+{
+  "name": "ajax-insect",
+  "version": "1.0.0",
+  "description": "crawling web information",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shataniya/ajax-insect.git"
+  },
+  "keywords": [
+    "ajax",
+    "ajax-insect",
+    "insect"
+  ],
+  "author": "sataniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shataniya/ajax-insect/issues"
+  },
+  "homepage": "https://github.com/shataniya/ajax-insect#readme"
+}
